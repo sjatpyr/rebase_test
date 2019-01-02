@@ -1,2 +1,3 @@
 text file new 
 changes from master
+changes from new_branch
