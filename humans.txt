@@ -2,5 +2,5 @@ text file new
 changes from master
 changes from new_branch
 
-delete change for rebasing conflict
+chech and change changes for rebasing conflict
 new changes from bigtroule
