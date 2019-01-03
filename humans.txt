@@ -1,3 +1,5 @@
 text file new 
 changes from master
 changes from new_branch
+
+changes for rebasing conflict
