@@ -2,5 +2,5 @@ text file new
 changes from master
 changes from new_branch
 
-chech and change changes for rebasing conflict
+chech and change changes for changes from GitHub rebasing conflict
 new changes from bigtroule
