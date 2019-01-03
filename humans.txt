@@ -3,3 +3,4 @@ changes from master
 changes from new_branch
 
 changes for rebasing conflict
+new changs for rebasing conflict
